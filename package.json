@@ -1,15 +1,14 @@
 {
   "name": "ember-class-list",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.9.0",
+  "description": "Concatenate class lists without worrying about whitespace.",
   "keywords": [
     "ember-addon"
   ],
-  "repository": "",
+  "repository": "https://github.com/a13o/ember-class-list",
   "license": "MIT",
-  "author": "",
+  "author": "a13o",
   "directories": {
-    "doc": "doc",
     "test": "tests"
   },
   "scripts": {
