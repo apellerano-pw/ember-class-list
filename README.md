@@ -29,7 +29,7 @@ _output:_
   "Btn"
   {{if this.loaded "active"}}
   {{this.theme}}
->
+}}>
   Update Photo
 </div>
 ```
